@@ -28,7 +28,7 @@ export default function Home() {
 	</figure>
 	<div class="catch">
 		<h1>There is no love sincerer than<br /> the love of food.</h1>
-		<p>食物を愛するよりも誠実な愛はない ― バーナード・ショー</p>
+		<p>食物を愛するよりも誠実な愛はない ― バーナード・ショー!!</p>
 	</div>
 	<div class="wave">
 		<img src="/images/wave.svg" alt="" />
